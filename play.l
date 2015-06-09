@@ -1,5 +1,4 @@
 ;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
-;; Assigntment 4
 ;; Author: Melih Elibol
 ;; Description: Implementation of a minimax algorithm,
 ;; with alpha beta pruning, for owari.
