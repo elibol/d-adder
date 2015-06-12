@@ -1,6 +1,6 @@
 # Owari AI (mini-max imp.) #
 
-Although this repository contains executable code, it is primarily intent for educational purposes.
+Although this repository contains executable code, it is primarily intended for educational purposes.
 
 Mini-max implementation of Owari AI, with alpha beta pruning.
 
